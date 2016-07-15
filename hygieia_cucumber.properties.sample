@@ -1,0 +1,13 @@
+[jenkins]
+url=http://server:port
+username=my_jenkins_user
+password=my_jenkins_password
+folder=folder_to_scan_for_jobs
+
+[db]
+host=localhost
+username=db
+password=dbpass
+
+[hygieia]
+api_url=http://server:port/api
